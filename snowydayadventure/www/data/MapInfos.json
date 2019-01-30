@@ -1,4 +1,6 @@
 [
 null,
-{"id":1,"expanded":false,"name":"beach by the mountain","order":1,"parentId":0,"scrollX":500.72727272727275,"scrollY":352.90909090909093}
+{"id":1,"expanded":true,"name":"beach by the mountain","order":1,"parentId":0,"scrollX":604,"scrollY":432.6666666666667},
+{"id":2,"expanded":false,"name":"purple garden","order":2,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":3,"expanded":false,"name":"superwide map","order":3,"parentId":0,"scrollX":1101.6,"scrollY":757.1999999999999}
 ]
